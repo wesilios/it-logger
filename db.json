@@ -55,19 +55,34 @@
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
+      "firstName": "Volt",
+      "lastName": "Prime",
+      "id": 5
     },
     {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
+      "firstName": "Excalibur",
+      "lastName": "Prime",
+      "id": 7
     },
     {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
+      "firstName": "Trinity",
+      "lastName": "Prime",
+      "id": 8
+    },
+    {
+      "firstName": "Ash",
+      "lastName": "Prime",
+      "id": 9
+    },
+    {
+      "firstName": "Rhino",
+      "lastName": "Prime",
+      "id": 10
+    },
+    {
+      "firstName": "Banshee",
+      "lastName": "Prime",
+      "id": 11
     }
   ]
 }
