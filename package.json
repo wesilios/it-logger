@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "lodash.template": "^4.5.0",
     "materialize-css": "^1.0.0",
     "moment": "^2.24.0",
